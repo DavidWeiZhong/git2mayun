@@ -15,6 +15,14 @@ http://backlogtool.com/git-guide/cn/intro/intro1_1.html
 你也可以移步这里http://www.sxt.cn/info-6043-u-7372.html
 好饿，下午再来写一下把。。。。
 
+午休了一下，这两个技术文章绝对能处理你所有的问题
+http://blog.csdn.net/lei_notes/article/details/53287447
+http://blog.csdn.net/a10615/article/details/52135617
+
+好了，前辈已经帮我们铺好路了，我们要加油
+其实遇到的问题就是，应为你上传到码云的时候，由于，你在码云新建的项目有一个readme.md.而你的Android studio 里面没有，所以，你要先pull下载下来，但是你先下载下来的时候，git又会
+告诉你有不同的分支，所以git还要设置一下git pull origin master –-allow-unrelated-histories ，这样才不多就解决了问题了
+
 #2，从码云中下载别人的项目
 1,android studio 中配置git··
 ![image](https://github.com/DavidWeiZhong/git2mayun/blob/master/image/3.png)
@@ -26,3 +34,6 @@ http://backlogtool.com/git-guide/cn/intro/intro1_1.html
 
 基本上你就可以了，然后你改你的项目的时候就可以vcs上传下载啦
 ![image](https://github.com/DavidWeiZhong/git2mayun/blob/master/image/4.png)
+
+#总结，通过今天的学习，还是从新认识了一下git这个工具，总之就是一个管理员吧，可以把你的项目上传到公共的地方，当时在你上传之前，你先要下载下来你公共服务端没有的代码，
+和一些分支（第一次上传当然没有问题啦），以后就在这里总结git的各种坑吧
