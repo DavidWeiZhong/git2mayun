@@ -14,7 +14,7 @@ http://backlogtool.com/git-guide/cn/intro/intro1_1.html
 #2，从码云中下载别人的项目
 1,android studio 中配置git··
 
-2，在Android studio中操作，当然你的Android studio 一定要先配置git
+2，在Android studio中操作，当然你的Android studio 一定要先配置git...
 [](https://github.com/DavidWeiZhong/git2mayun/blob/master/image/1.png)
 
 
