@@ -15,6 +15,7 @@ http://backlogtool.com/git-guide/cn/intro/intro1_1.html
 1,android studio 中配置git··
 
 2，在Android studio中操作，当然你的Android studio 一定要先配置git
+[](https://github.com/DavidWeiZhong/git2mayun/blob/master/image/1.png)
 
 
 基本上你就可以了，然后你改你的项目的时候就可以vcs上传下载啦
