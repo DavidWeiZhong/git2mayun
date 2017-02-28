@@ -13,9 +13,12 @@ http://backlogtool.com/git-guide/cn/intro/intro1_1.html
 
 #2，从码云中下载别人的项目
 1,android studio 中配置git··
+![image](https://github.com/DavidWeiZhong/git2mayun/blob/master/image/3.png)
 
 2，在Android studio中操作，当然你的Android studio 一定要先配置git..
 ![image](https://github.com/DavidWeiZhong/git2mayun/blob/master/image/1.png)
+![image](https://github.com/DavidWeiZhong/git2mayun/blob/master/image/2.png)
 
 
 基本上你就可以了，然后你改你的项目的时候就可以vcs上传下载啦
+![image](https://github.com/DavidWeiZhong/git2mayun/blob/master/image/4.png)
